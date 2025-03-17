@@ -446,6 +446,7 @@
 * [NaturalReaders](https://www.naturalreaders.com/online/) / No Sign-Up
 * [TTS](https://github.com/coqui-ai/tts) / [Discord](https://discord.gg/5eXr5seRrv)
 * [Clash](https://clash.me/)
+* [AI speaker](https://ai-speaker.net/) / No Sign-Up
 * [Moe TTS](https://huggingface.co/spaces/skytnt/moe-tts) / No Sign-Up / [Colab](https://colab.research.google.com/drive/14Pb8lpmwZL-JI5Ub6jpG4sz2-8KS0kbS?usp=sharing)
 
 ***
